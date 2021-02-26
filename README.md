@@ -17,7 +17,7 @@ Three location clusters:
 - Cluster B: Mostly Black, high poverty rate, low median income
 - Cluster C: Mostly Hispanic and Asian, high median income  
 
-Significant features of shootings in different clusters: Age, Black racial group, Hispanic racial group, Suspect threat level
+Significant features of shootings in different clusters: Age, Black racial group, Hispanic racial group, Suspect mental illness
 
 # Code files explanation:
 Final version: PCA Kmeans + RF-Copy1.ipynb  
