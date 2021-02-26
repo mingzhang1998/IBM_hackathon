@@ -12,12 +12,18 @@ For example, one question can be, do shooting cases tend to include low threat l
    - Proposed methods: Qiskit QSVM; scikit-learn Random Forest classifier (if Qiskit fails)
 
 # Results
+
 Three location clusters:
 - Cluster A: Mostly White, high percentage completed high school
 - Cluster B: Mostly Black, high poverty rate, low median income
 - Cluster C: Mostly Hispanic and Asian, high median income  
 
 Significant features of shootings in different clusters: Age, Black racial group, Hispanic racial group, Suspect mental illness
+
+Profiling:
+- Cluster A: cases more likely to include suspects/victims with higher age and signs of mental illness  
+- Cluster B: more cases involving Hispanics even though the percentage of black population is higher
+- Cluster C: most cases involving black suspects/victims
 
 # Code files explanation:
 Final version: PCA Kmeans + RF-Copy1.ipynb  
