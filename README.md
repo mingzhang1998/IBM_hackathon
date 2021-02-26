@@ -18,7 +18,10 @@ Three location clusters:
 - Cluster B: Mostly Black, high poverty rate, low median income
 - Cluster C: Mostly Hispanic and Asian, high median income  
 
-Significant features of shootings in different clusters: Age, Black racial group, Hispanic racial group, Suspect mental illness
+Significant features of shootings in different clusters:
+- Age
+- Black racial group
+- Hispanic racial group, Suspect mental illness
 
 Profiling:
 - Cluster A: cases more likely to include suspects/victims with higher age and signs of mental illness  
@@ -26,5 +29,6 @@ Profiling:
 - Cluster C: most cases involving black suspects/victims
 
 # Code files explanation:
+
 Final version: PCA Kmeans + RF-Copy1.ipynb  
 Failed attempts: quantum clustering trial 1.ipynb, quantum_clustering_trial 2.ipynb
